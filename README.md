@@ -10,7 +10,10 @@ Glmnet (https://glmnet.stanford.edu/articles/glmnet.html) and XGBoost (https://x
 
 For multi-omics integration, MixOmics (https://mixomics.org/) and CorrPlot (with pvalue testing, https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) are conducted.
 
-Example MixOmics Result
+MixOmics additional examples
+ https://github.com/karoliinas/GEMMA_precilinical
+ 
+Example results from GEMMA preclinical data
 
 [sylvie_mixomics_circos2.pdf](https://github.com/user-attachments/files/22132260/sylvie_mixomics_circos2.pdf)
 
